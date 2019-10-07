@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON", "XML-JSON\JSON.cspro
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JSON", "JSON", "{1F73916F-D23B-407B-834A-D41A750868FE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XML", "XML", "{3AA1ECF0-6590-4F41-879B-661592F0F114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml-project", "Xml-project\Xml-project.csproj", "{177EDB63-4F85-4077-BD75-CF6A672A60C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{10D7ECE0-91FA-4B3C-9782-252E1A42240B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10D7ECE0-91FA-4B3C-9782-252E1A42240B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10D7ECE0-91FA-4B3C-9782-252E1A42240B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{177EDB63-4F85-4077-BD75-CF6A672A60C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177EDB63-4F85-4077-BD75-CF6A672A60C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177EDB63-4F85-4077-BD75-CF6A672A60C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177EDB63-4F85-4077-BD75-CF6A672A60C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{10D7ECE0-91FA-4B3C-9782-252E1A42240B} = {1F73916F-D23B-407B-834A-D41A750868FE}
+		{177EDB63-4F85-4077-BD75-CF6A672A60C9} = {3AA1ECF0-6590-4F41-879B-661592F0F114}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5FEFBB73-C11E-4957-A5CE-D1901B80DE82}
