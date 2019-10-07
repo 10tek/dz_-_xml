@@ -9,7 +9,7 @@ namespace Xml_project
         public string Time { get; set; }
         public string Longitude { get; set; }
         public string Latitude { get; set; }
-        public Depth Depth { get; set; }
+        public Depth Depth { get; set; } 
         public OriginUncertainty OriginUncertainty { get; set; }
         public Quality Quality { get; set; }
         public string EvaluationMode { get; set; }

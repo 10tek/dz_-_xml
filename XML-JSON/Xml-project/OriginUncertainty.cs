@@ -8,5 +8,5 @@ namespace Xml_project
     {
         public string HorizontalUncertainty { get; set; }
         public string PreferredDescription { get; set; }
-    }
+    } 
 }

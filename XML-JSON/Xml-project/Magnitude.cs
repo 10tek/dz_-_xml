@@ -7,7 +7,7 @@ namespace Xml_project
     public class Magnitude
     {
         public Mag Mag { get; set; }
-        public string Type { get; set; }
+        public string Type { get; set; } 
         public string OriginID { get; set; }
         public string EvaluationMode { get; set; }
         public CreationInfo CreationInfo { get; set; }
